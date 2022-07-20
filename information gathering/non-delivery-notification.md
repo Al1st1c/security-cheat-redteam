@@ -1,0 +1,1 @@
+enviar um e-mail invalido pro alvo e avaliar o retorno, pode conter informacoes interessante

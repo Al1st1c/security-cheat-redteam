@@ -1,0 +1,1 @@
+software de automação para captação de informações

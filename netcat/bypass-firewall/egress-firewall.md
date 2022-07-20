@@ -1,0 +1,1 @@
+Identificar no servidor uma porta de saida e tentar sair com o bin/bash por essa porta realizando um reverse shell
